@@ -1,0 +1,6 @@
+c:\users\jose\documents\visual studio 2012\Projects\AppGestionBancaria\AppGestionBancaria\bin\Debug\AppGestionBancaria.exe.config
+c:\users\jose\documents\visual studio 2012\Projects\AppGestionBancaria\AppGestionBancaria\obj\Debug\AppGestionBancaria.csprojResolveAssemblyReference.cache
+c:\users\jose\documents\visual studio 2012\Projects\AppGestionBancaria\AppGestionBancaria\bin\Debug\AppGestionBancaria.exe
+c:\users\jose\documents\visual studio 2012\Projects\AppGestionBancaria\AppGestionBancaria\bin\Debug\AppGestionBancaria.pdb
+c:\users\jose\documents\visual studio 2012\Projects\AppGestionBancaria\AppGestionBancaria\obj\Debug\AppGestionBancaria.exe
+c:\users\jose\documents\visual studio 2012\Projects\AppGestionBancaria\AppGestionBancaria\obj\Debug\AppGestionBancaria.pdb
